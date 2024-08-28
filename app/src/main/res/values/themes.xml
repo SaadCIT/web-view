@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LamiyaTravels" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+     <item name="colorPrimary">#050833</item>
+    </style>
+
+    <style name="Theme.LamiyaTravels" parent="Base.Theme.LamiyaTravels" />
+</resources>
